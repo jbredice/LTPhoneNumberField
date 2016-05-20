@@ -22,5 +22,5 @@ Pod::Spec.new do |s|
 
   s.ios.exclude_files = 'Classes/osx'
   s.osx.exclude_files = 'Classes/ios'
-  s.dependency 'libPhoneNumber-iOS', '~> 0.7.2'
+  s.dependency 'libPhoneNumber-iOS', '~> 0.8'
 end
